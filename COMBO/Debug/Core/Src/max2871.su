@@ -1,0 +1,7 @@
+max2871.c:64:6:plo_buff_push	16	static
+max2871.c:84:6:plo_buff_pop	16	static
+max2871.c:101:6:plo_write_register	24	static
+max2871.c:136:6:plo_write_all	24	static
+max2871.c:186:6:plo_write	16	static
+max2871.c:208:10:plo_read_register	16	static
+max2871.c:266:6:plo_process_lock_status	16	static
